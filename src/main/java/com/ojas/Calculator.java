@@ -18,4 +18,9 @@ public class Calculator {
 		}
 		return a / b;
 	}
+	
+	public Integer sub(Integer a,Integer c)
+	{
+		return 24;
+	}
 }
